@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @captaincody187
-- 👀 I’m interested in learnign to code
+- 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning html5, css3, and javascript.
 - 💞️ I’m looking to collaborate on anything that will help me learn.
 - 📫 How to reach me, simoncody121@gmail.com
