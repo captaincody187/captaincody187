@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captaincody187
-- 👀 I’m interested in sharpening my react skills
-- 🌱 I’m currently learning C# and .Net.
+- 👀 I’m interested in starting a junior dev job
+- 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on anything that will help me learn.
 - 📫 How to reach me, codysimon.webdev@gmail.com
 
